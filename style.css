@@ -118,6 +118,7 @@ header{
   font-family: Montserrat;
   font-weight: 700;
   text-decoration: underline;
+  color: #A9A9A9;
 }
 @media screen and (max-width: 480px) {
   .wrapper{
