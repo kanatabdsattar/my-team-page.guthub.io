@@ -20,7 +20,7 @@ header{
 .title{
   font-family: PT serif;
   font-weight: 700;
-  font-size: 20px;
+  font-size: 22px;
 }
 .header__info{
   width: 340px;
@@ -109,10 +109,15 @@ header{
 .footer-text{
   margin-top: auto;
   font-family: Montserrat;
-  font-weight: 700;
+  font-weight: 500;
   color: #A9A9A9;
   text-align: center;
   padding-top: 90px;
+}
+.footer-text__bold{
+  font-family: Montserrat;
+  font-weight: 700;
+  text-decoration: underline;
 }
 @media screen and (max-width: 480px) {
   .wrapper{
